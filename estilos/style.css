@@ -119,7 +119,7 @@ header nav ul li:hover{
     
    
 }
-.imageneshtml, .imageneshtml header h1{color: rgb(0, 0, 0);
+.imageneshtml, .imageneshtml header h1{color: rgb(255, 255, 255);
     margin: 25px;
     padding: 30px;
 text-align: center;
@@ -130,19 +130,20 @@ border-bottom: 10px;
 border-left: 10px;
 border-right: 10px;
 font-size: 50px;
-background-image: url(../img/eme5.jpg);
 background-repeat: no-repeat;
 background-position: top left;
 padding: 20px;
-background-color: #ff0000;
+background-color: #000000;
 background-image: linear-gradient(125deg, #ff0000 0%, #000000 100%);
 font-family: 'Permanent Marker', cursive;
 font-style: oblique;
-border-style: solid;}
+border-style: solid;
+background-image: url(../img/imgredimencionadas/eme5.jpg);
+}
 
 
 
-.videoshtml, .videoshtml header h1{color: rgb(0, 0, 0);
+.videoshtml, .videoshtml header h1{color: rgb(255, 255, 255);
     margin: 25px;
     padding: 25px;
     text-align: center;
@@ -155,15 +156,15 @@ border-style: solid;}
     border-right: 10px;
     font-size: 50px;
     background-color: black;
-    background-image: url(../img/eme5.jpg);
     background-repeat: no-repeat;
     background-position: top left;
     padding: 20px;
-    background-color: #ff0000;
+    background-color: #000000;
     background-image: linear-gradient(125deg, #ff0000 0%, #000000 100%);
     font-family: 'Permanent Marker', cursive;
 font-style: oblique;
-border-style: solid;}
+border-style: solid;
+background-image: url(../img/imgredimencionadas/eme5.jpg)}
 
 footer h3{color: red;
 border-radius: 23px;

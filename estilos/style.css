@@ -356,6 +356,45 @@ transition: all 2s;
         "img6 img7 img17"
         "img8 img10 img18";
     }
+    .galeriadeimagenes--g1:hover{
+        transform: scale(1.5);
+        transition: all 2s;}
+    .galeriadeimagenes--g2:hover{
+        transform: scale(1.5);
+        transition: all 2s;}
+    .galeriadeimagenes--g3:hover{
+        transform: scale(1.5);
+        transition: all 2s;}
+    .galeriadeimagenes--g5:hover{
+        transform: scale(1.5);
+        transition: all 2s;}
+    .galeriadeimagenes--g6:hover{
+        transform: scale(1.5);
+        transition: all 2s;}
+    .galeriadeimagenes--g7:hover{
+        transform: scale(1.5);
+        transition: all 2s;}
+    .galeriadeimagenes--g8:hover{
+        transform: scale(1.5);
+        transition: all 2s;}
+                                
+    .galeriadeimagenes--g9:hover{
+        transform: scale(1.5);
+        transition: all 2s;}
+    .galeriadeimagenes--g15:hover{
+        transform: scale(1.5);
+        transition: all 2s;}
+    .galeriadeimagenes--g16:hover{
+        transform: scale(1.5);
+        transition: all 2s;}
+    .galeriadeimagenes--g17:hover{
+        transform: scale(1.5);
+        transition: all 2s;}
+    .galeriadeimagenes--g18:hover{
+        transform: scale(1.5);
+        transition: all 2s;}
+
+    
 }
 @media screen and (max-width:768px) {
     .integrantes-main{
@@ -379,7 +418,7 @@ transition: all 2s;
 
 @media screen and (max-width:768px) {
     header {
-        background-image: url(../img/nubes2.jpg);
+        background-image: url(../img/imgredimencionadas/nuves.jpg);
     }
     
 }

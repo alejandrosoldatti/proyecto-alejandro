@@ -16,20 +16,28 @@
 }
 .seccioninicio, .seccioninicio{color: rgb(0, 0, 0);
     font-family: 'Permanent Marker', cursive;      
-font-size: 35px;    
-margin: 25px;
-padding: 10px;
-text-align: center;
-border-radius: 23px;
-border-top: 5px;
-border-bottom: 5px;
-border-left: 5px;
-border-right: 5px;
-border-style: double;
-background-color: #ff0000;
-background-image: linear-gradient(125deg, #ff0000 0%, #000000 100%);
-
-border-color: rgb(0, 0, 0);
+    font-size: 35px;    
+    margin: 25px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 23px;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: double;
+    background-color: #ff0000;
+    background-image: linear-gradient(125deg, #ff0000 0%, #000000 100%);
+    border-color: rgb(0, 0, 0);
+}
+.contenedor-inicio{
+    display: flex;
+    justify-content: center;
+}
+.seccioninicio{
+    display: flex;
+    justify-content: center;
+    width: 70%;
 }
 header nav ul li a{
     color: red;
@@ -87,18 +95,13 @@ h1{
 header h2 {
     font-family: 'Permanent Marker', cursive;
     font-style: oblique;}
-    
 
-
-a{
-    text-decoration: none;
-}
 p{
     color: black;
 }
 
 h3{
-    color: blue;
+    color: rgb(0, 0, 0);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
     font-style: oblique;}
 p{
@@ -110,15 +113,13 @@ p{
 
 header nav ul li:hover{
     background-color: white;
-    color: black;
+    color: rgb(0, 0, 0);
     border-radius: 20px;
     text-decoration: underline;
     transform: scale(1.5);
     transition: 0.5s;
-
-    
-   
 }
+
 .imageneshtml, .imageneshtml header h1{color: rgb(255, 255, 255);
     margin: 25px;
     padding: 30px;
@@ -437,4 +438,10 @@ transition: all 2s;
 .robert:hover{
     transform: scale(1.1);
 transition: all 2s;
+}
+a:hover{
+    color: black;
+}
+a{
+    text-decoration: none;
 }

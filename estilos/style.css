@@ -507,3 +507,9 @@ a{
     display: flex;
     justify-content: start;
 }
+.card-title{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+}

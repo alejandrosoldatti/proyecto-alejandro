@@ -478,3 +478,18 @@ a:hover{
 a{
     text-decoration: none;
 }
+.recitales{
+    border-style: solid;
+    background-color: #000000;
+    margin: 23px;
+    padding: 1px;
+}
+.texto-recitales{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+}

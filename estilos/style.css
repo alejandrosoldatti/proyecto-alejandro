@@ -493,3 +493,17 @@ a{
     display: flex;
     justify-content: center;
 }
+.temas{
+    border-radius: 10%;
+    border-style: solid;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    margin: 5px;
+}
+.temas-letras{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: start;
+}

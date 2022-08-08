@@ -493,23 +493,16 @@ a{
     display: flex;
     justify-content: center;
 }
-.temas{
-    border-radius: 10%;
-    border-style: solid;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
+.discografia{
     background-color: black;
-    margin: 5px;
-}
-.temas-letras{
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
-    display: flex;
-    justify-content: start;
-}
-.card-title{
-    font-family: 'Bebas Neue', cursive;
-    text-align: center;
+    font-family: 'Bebas Neue';
     font-style: oblique;
-    font-weight: bold;
+    border-radius: 23px;
+}
+.canciones{
+    color: white;
+    text-align: center;
+    font-family: 'Bebas Neue';
+
 }

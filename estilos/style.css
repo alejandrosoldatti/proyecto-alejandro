@@ -432,7 +432,7 @@ transition: all 2s;
 }
 @media screen and (max-width:768px) {
     .integrantes-main{
-        background-image: url(../img/nubes.jpg);
+        background-image: url(../img/imgredimencionadas/rayos2.jpg);
         
     }
 }
@@ -452,7 +452,7 @@ transition: all 2s;
 
 @media screen and (max-width:768px) {
     header {
-        background-image: url(../img/imgredimencionadas/nuves.jpg);
+        background-image: url(../img/imgredimencionadas/rayos2.jpg);
     }
     
 }
@@ -505,4 +505,44 @@ a{
     text-align: center;
     font-family: 'Bebas Neue';
 
+}
+p::first-letter{
+    font-size: 23px;
+}
+p::selection{
+    background-color: red;
+    color: black;
+}
+@media screen and (max-width:768px) {
+    .larsparrafo{
+        background-color: #ed0000;
+        background-image: linear-gradient(239deg, #ed0000 0%, #2e2b33 50%, #04090a 100%);
+
+        color: white
+    }
+    .jamesparrafo{
+        background-color: #ed0000;
+        background-image: linear-gradient(239deg, #ed0000 0%, #2e2b33 50%, #04090a 100%);
+
+        color: white
+
+    }
+    .kirkparrafo{
+        background-color: #ed0000;
+        background-image: linear-gradient(239deg, #ed0000 0%, #2e2b33 50%, #04090a 100%);
+
+        color: white
+    }
+    .robertparrafo{
+        background-color: #ed0000;
+        background-image: linear-gradient(239deg, #ed0000 0%, #2e2b33 50%, #04090a 100%);
+
+        color: white
+    }
+    .historiaparrafo{
+        background-color: #b14545;
+        background-image: linear-gradient(239deg, #b14545 0%, #ff0000 25%, #000000 75%);
+        color: white;
+
+    }
 }

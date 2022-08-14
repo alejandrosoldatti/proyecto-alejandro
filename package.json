@@ -1,0 +1,26 @@
+{
+  "name": "proyecto-soldatti2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandrosoldatti/proyecto-alejandro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandrosoldatti/proyecto-alejandro/issues"
+  },
+  "homepage": "https://github.com/alejandrosoldatti/proyecto-alejandro#readme",
+  "dependencies": {
+    "sass": "^1.54.4"
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.19"
+  }
+}

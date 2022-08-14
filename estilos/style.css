@@ -1,3 +1,14 @@
+footer h3 {
+  color: red;
+  border-radius: 23px;
+  border-style: solid;
+  font-size: 35px;
+  font-style: oblique;
+  padding: 10px;
+  margin: 20px;
+  text-align: right;
+}
+
 header {
   background-image: url(../img/imgredimencionadas/848e2b30f1ae78e243386707e09e807a.png);
 }

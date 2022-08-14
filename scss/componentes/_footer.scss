@@ -1,0 +1,12 @@
+footer{
+    h3{
+        color: $colorrojo;
+        border-radius: 23px;
+        border-style: solid;
+        font-size: nth($tamaños,3);
+        font-style: oblique;
+        padding: 10px;
+        margin: 20px;
+        text-align: right;
+    }
+}

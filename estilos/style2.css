@@ -42,9 +42,10 @@
 header nav ul li a{
     color: red;
 }
-header nav ul li{display: inline-block;
-padding: 0.3rem 0.6rem;
-margin: 0 0.8rem;
+header nav ul li{
+    display: inline-block;
+    padding: 0.3rem 0.6rem;
+    margin: 0 0.8rem;
 }
 header nav ul{
     border-style: solid;
@@ -59,30 +60,35 @@ header nav ul{
     background-color: black;
     text-align: right;
     background-color: #ff0000;
-background-image: linear-gradient(75deg, #ff0000 0%, #000000 67%);
+    background-image: linear-gradient(75deg, #ff0000 0%, #000000 67%);
 
 
 }
 .tamaño25px section h2{
-    font-size: 25px; color: rgb(255, 38, 0);
+    font-size: 25px; 
+    color: rgb(255, 38, 0);
 }
 .integrantes, .integrantes section h2{
-    font-size: 55px; color: rgb(0, 0, 0); font-style: oblique; background-color: rgb(0, 0, 0); border-style: solid;
+    font-size: 55px; 
+    color: rgb(0, 0, 0); 
+    font-style: oblique; 
+    background-color: rgb(0, 0, 0); 
+    border-style: solid;
     text-align: center;
     margin: 20px;
     background-color: #ff0000;
-background-image: linear-gradient(125deg, #ff0000 0%, #000000 100%);
-font-family:Verdana, Geneva, Tahoma, sans-serif;
-   
-
-
+    background-image: linear-gradient(125deg, #ff0000 0%, #000000 100%);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
-.integrantes, .integrantes section{background-color: black;
+.integrantes, .integrantes section{
+    background-color: black;
     font-family: 'Permanent Marker', cursive;
-border-color: black;
-border-radius: 23px;}
+    border-color: black;
+    border-radius: 23px;}
 main h2 {
-    color: rgb(255, 0, 0); background-color: rgb(0, 0, 0); font-size: 50px;
+    color: rgb(255, 0, 0); 
+    background-color: rgb(0, 0, 0); 
+    font-size: 50px;
     border-radius: 23px;
     margin: 10px;
     padding: 10px;
@@ -104,12 +110,12 @@ h3{
     color: rgb(0, 0, 0);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
     font-style: oblique;}
-    p{
-        background-color: rgb(0, 0, 0);
-    }
-    p{
+p{
+    background-color: rgb(0, 0, 0);
+}
+p{
         color: white;
-    }
+}
 
 header nav ul li:hover{
     background-color: white;
@@ -123,23 +129,23 @@ header nav ul li:hover{
 .imageneshtml, .imageneshtml header h1{color: rgb(255, 255, 255);
     margin: 25px;
     padding: 30px;
-text-align: center;
-border-style: solid;
-border-radius: 23px;
-border-top: 10px;
-border-bottom: 10px;
-border-left: 10px;
-border-right: 10px;
-font-size: 50px;
-background-repeat: no-repeat;
-background-position: top left;
-padding: 20px;
-background-color: #000000;
-background-image: linear-gradient(125deg, #ff0000 0%, #000000 100%);
-font-family: 'Permanent Marker', cursive;
-font-style: oblique;
-border-style: solid;
-background-image: url(../img/imgredimencionadas/eme5.jpg);
+    text-align: center;
+    border-style: solid;
+    border-radius: 23px;
+    border-top: 10px;
+    border-bottom: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    font-size: 50px;
+    background-repeat: no-repeat;
+    background-position: top left;
+    padding: 20px;
+    background-color: #000000;
+    background-image: linear-gradient(125deg, #ff0000 0%, #000000 100%);
+    font-family: 'Permanent Marker', cursive;
+    font-style: oblique;
+    border-style: solid;
+    background-image: url(../img/imgredimencionadas/eme5.jpg);
 }
 
 
@@ -163,31 +169,31 @@ background-image: url(../img/imgredimencionadas/eme5.jpg);
     background-color: #000000;
     background-image: linear-gradient(125deg, #ff0000 0%, #000000 100%);
     font-family: 'Permanent Marker', cursive;
-font-style: oblique;
-border-style: solid;
-background-image: url(../img/imgredimencionadas/eme5.jpg)}
+    font-style: oblique;
+    border-style: solid;
+    background-image: url(../img/imgredimencionadas/eme5.jpg)}
 
 .conciertos, .conciertos header h1{
     color: rgb(255, 255, 255);
     margin: 25px;
     padding: 30px;
-text-align: center;
-border-style: solid;
-border-radius: 23px;
-border-top: 10px;
-border-bottom: 10px;
-border-left: 10px;
-border-right: 10px;
-font-size: 50px;
-background-repeat: no-repeat;
-background-position: top left;
-padding: 20px;
-background-color: #000000;
-background-image: linear-gradient(125deg, #ff0000 0%, #000000 100%);
-font-family: 'Permanent Marker', cursive;
-font-style: oblique;
-border-style: solid;
-background-image: url(../img/imgredimencionadas/eme5.jpg);
+    text-align: center;
+    border-style: solid;
+    border-radius: 23px;
+    border-top: 10px;
+    border-bottom: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    font-size: 50px;
+    background-repeat: no-repeat;
+    background-position: top left;
+    padding: 20px;
+    background-color: #000000;
+    background-image: linear-gradient(125deg, #ff0000 0%, #000000 100%);
+    font-family: 'Permanent Marker', cursive;
+    font-style: oblique;
+    border-style: solid;
+    background-image: url(../img/imgredimencionadas/eme5.jpg);
 }
 .conciertoimg{
     width: 100%;
@@ -216,12 +222,12 @@ footer h3{
     border-color: black;
 }
 
-p{margin: 10px;
-padding: 10px;
-border-radius: 20px;
-font-size: medium;
-font-family: Arial, Helvetica, sans-serif;
-
+p{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 footer nav ul{margin: 10px;}
@@ -232,8 +238,8 @@ footer nav ul{margin: 10px;}
 }
 .imagenbanda{
     width: 100%;
-height: auto;
-border-radius: 23px;
+    height: auto;
+    border-radius: 23px;
 }
 img{
     border-radius: 23px;
@@ -270,11 +276,10 @@ header{
 .galeriadeimagenes--g1:hover{
     transform: scale(1.1);
     transition: all 2s;
-   
-}
+   }
 .galeriadeimagenes--g1{
     grid-area: img1;
-}
+   }
 
 .galeriadeimagenes--g2:hover{
     grid-area: img2;
@@ -317,20 +322,20 @@ header{
    
 }
 .galeriadeimagenes--g9:hover{
-grid-area: img10;
-transform: scale(1.1);
-transition: all 2s;
+    grid-area: img10;
+    transform: scale(1.1);
+    transition: all 2s;
 }
 
 
 .galeriadeimagenes--g15:hover{
-    
     transform: scale(1.1);
     transition: all 2s;
 }
 .galeriadeimagenes--g15{
     grid-area: img15;
 }
+
 .galeriadeimagenes--g16:hover{
     transform: scale(1.1);
     transition: all 2s;
@@ -340,16 +345,16 @@ transition: all 2s;
 }
 .galeriadeimagenes--g17:hover{
    
-transform: scale(1.1);
-transition: all 2s;
+    transform: scale(1.1);
+    transition: all 2s;
 }
 .galeriadeimagenes--g17{
     grid-area: img17;
 }
 .galeriadeimagenes--g18:hover{
     
-transform: scale(1.1);
-transition: all 2s;
+    transform: scale(1.1);
+    transition: all 2s;
 }
 .galeriadeimagenes--g18{
     grid-area: img18;
@@ -459,19 +464,19 @@ transition: all 2s;
 }
 .james:hover{
     transform: scale(1.1);
-transition: all 2s;
+    transition: all 2s;
 }
 .lars:hover{
     transform: scale(1.1);
-transition: all 2s;
+    transition: all 2s;
 }
 .kirk:hover{
     transform: scale(1.1);
-transition: all 2s;
+    transition: all 2s;
 }
 .robert:hover{
     transform: scale(1.1);
-transition: all 2s;
+    transition: all 2s;
 }
 a:hover{
     color: black;

@@ -1,6 +1,7 @@
 @import "./base/variables";
 @import "./base/listas";
 @import "./base/maps";
+@import "./base/extend";
 @import "./componentes/footer";
 
 
@@ -97,4 +98,8 @@ header{
 	    border-style: solid;
 	    background-image: url(../img/imgredimencionadas/eme5.jpg);
     }
+}
+
+.conteiner{
+    @extend %ubicacion
 }

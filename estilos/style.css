@@ -1,3 +1,8 @@
+.conteiner {
+  display: flex;
+  justify-content: center;
+}
+
 footer h3 {
   color: red;
   border-radius: 23px;

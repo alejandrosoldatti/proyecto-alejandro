@@ -1,5 +1,6 @@
 @import "./base/variables";
 @import "./base/listas";
+@import "./base/maps";
 @import "./componentes/footer";
 
 
@@ -30,13 +31,19 @@ header{
                 display: inline-block;
                 padding: 0.3rem 0.6rem;
                 margin: 0 0.8rem;
+                &:hover{
+                    text-decoration: underline;
+                    transform: scale(1.5);
+                    transition: 0.5s;
+                }
                 a{
                     color: red;  
+                }
+                
                 }
             }
         }
     }
-}
 .inicio{
     h1{
         color: rgb(0, 0, 0);
@@ -66,4 +73,28 @@ header{
     display: flex;
     justify-content: center;
     width: 70%;
+}
+.integranteshtml{
+    h1{
+        color: map-get($header, color_1);
+	    margin: 25px;
+	    padding: 30px;
+	    text-align: center;
+	    border-style: solid;
+	    border-radius: 23px;
+	    border-top: 10px;
+	    border-bottom: 10px;
+	    border-left: 10px;
+	    border-right: 10px;
+	    font-size: 50px;
+	    background-repeat: no-repeat;
+	    background-position: top left;
+	    padding: 20px;
+	    background-color: map-get($header, bg_color_1);
+	    background-image: linear-gradient(125deg, #ff0000 0%, #000000 100%);
+	    font-family: map-get($header,'Permanent Marker', cursive);
+	    font-style: oblique;
+	    border-style: solid;
+	    background-image: url(../img/imgredimencionadas/eme5.jpg);
+    }
 }

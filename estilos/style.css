@@ -36,6 +36,11 @@ header nav ul li {
   padding: 0.3rem 0.6rem;
   margin: 0 0.8rem;
 }
+header nav ul li:hover {
+  text-decoration: underline;
+  transform: scale(1.5);
+  transition: 0.5s;
+}
 header nav ul li a {
   color: red;
 }
@@ -68,6 +73,27 @@ header nav ul li a {
   display: flex;
   justify-content: center;
   width: 70%;
+}
+
+.integranteshtml h1 {
+  color: white;
+  margin: 25px;
+  padding: 30px;
+  text-align: center;
+  border-style: solid;
+  border-radius: 23px;
+  border-top: 10px;
+  border-bottom: 10px;
+  border-left: 10px;
+  border-right: 10px;
+  font-size: 50px;
+  background-repeat: no-repeat;
+  background-position: top left;
+  padding: 20px;
+  background-image: linear-gradient(125deg, #ff0000 0%, #000000 100%);
+  font-style: oblique;
+  border-style: solid;
+  background-image: url(../img/imgredimencionadas/eme5.jpg);
 }
 
 /*# sourceMappingURL=style.css.map */

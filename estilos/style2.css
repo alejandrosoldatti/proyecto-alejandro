@@ -1,8 +1,14 @@
 .imagen, .imagen{
     background-image: url(../img/imgredimencionadas/848e2b30f1ae78e243386707e09e807a.png);
-    
-
 }
+
+h1 {
+    font-size:200%;
+    font-style: oblique;
+    text-align:center;
+    font-weight: bolder;
+    text-decoration:underline;
+}    
 .inicio, .inicio h1{color: rgb(0, 0, 0);
     font-style: oblique;
     width: 96%;
@@ -266,6 +272,7 @@ header{
     max-width: 960px;
     margin: 0 auto;  
 }
+
 .videoborde{
     width: 100%;
     max-width: 960px;

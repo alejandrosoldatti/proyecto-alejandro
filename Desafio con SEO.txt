@@ -1,0 +1,9 @@
+Agregue:
+KEYWORDS: "metallica, reload, load, heavy metal"
+DESCRIPTION: "Pagina dedicada a la banda metallica, creada por fans; 
+en la que podras encontrar videos, imagenes, conciertos, y mucha info
+sobre la banda"
+
+Agregue todos los "ALT" de las imagenes.
+Agregue los "TITLE" a cada archivo multimedia (videos).
+Agregue un "TITLE" diferente a cada uno de los html.

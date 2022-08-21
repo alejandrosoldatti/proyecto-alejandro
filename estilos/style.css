@@ -109,4 +109,16 @@ h1 {
   text-decoration: underline;
 }
 
+@media screen and (max-width: 768px) {
+  .imageneshtml {
+    background-image: none;
+  }
+  .videoshtml {
+    background-image: none;
+  }
+  .conciertos {
+    background-image: none;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */

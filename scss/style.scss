@@ -110,3 +110,15 @@ h1{
     font-weight: bolder;
     text-decoration:underline;
 }
+
+@media screen and (max-width:768px) {
+    .imageneshtml{
+        background-image: none;
+    }
+    .videoshtml{
+        background-image: none;
+    }
+    .conciertos{
+        background-image: none;
+    }
+}

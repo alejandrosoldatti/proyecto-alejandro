@@ -132,7 +132,8 @@ header nav ul li:hover{
     transition: 0.5s;
 }
 
-.imageneshtml, .imageneshtml header h1{color: rgb(255, 255, 255);
+.imageneshtml, .imageneshtml header h1{
+    color: rgb(255, 255, 255);
     margin: 25px;
     padding: 30px;
     text-align: center;
@@ -156,7 +157,8 @@ header nav ul li:hover{
 
 
 
-.videoshtml, .videoshtml header h1{color: rgb(255, 255, 255);
+.videoshtml, .videoshtml header h1{
+    color: rgb(255, 255, 255);
     margin: 25px;
     padding: 25px;
     text-align: center;
@@ -451,6 +453,7 @@ header{
 }
 
 
+
 .footerimg{
     width: 100%;
     max-width: 960px;
@@ -559,3 +562,27 @@ p::selection{
 
     }
 }
+@media screen and (max-width:768px) {
+    .imageneshtml{
+        background-image: none;
+    }
+    .videoshtml{
+        background-image: none;
+    }
+    .conciertos{
+        background-image: none;
+    }
+}
+.seo{
+    background-color: #000000;
+    color: white;
+    border-style: solid;
+    width: 96%;
+    max-width: 960px;
+    margin: 0 auto; 
+}
+.seo{
+        width: 100%;
+        height: auto;
+        border-radius: 23px;
+    }

@@ -120,5 +120,15 @@ h1 {
     background-image: none;
   }
 }
+.integrantes-main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.contenedor-inicio {
+  justify-content: center;
+  display: flex;
+}
 
 /*# sourceMappingURL=style.css.map */

@@ -2,6 +2,7 @@
 @import "./base/listas";
 @import "./base/maps";
 @import "./base/extend";
+@import "./base/mixin";
 @import "./componentes/footer";
 
 
@@ -121,4 +122,11 @@ h1{
     .conciertos{
         background-image: none;
     }
+}
+
+.integrantes-main{
+    @include titulos2;
+}
+.contenedor-inicio{
+    @include titulos;
 }

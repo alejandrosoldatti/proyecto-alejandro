@@ -1,0 +1,17 @@
+@mixin titulos {
+    justify-content: center;
+    display: flex;
+    }
+
+@mixin titulos2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+@mixin templates ($colores, $fonts, $tamaño){
+    background-color: $colores;
+    font-family: $fonts;
+    font-size: $tamaño;
+    
+}

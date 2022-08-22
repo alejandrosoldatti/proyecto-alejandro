@@ -588,14 +588,14 @@ p::selection{
     }
 @media screen and (max-width:768px){
     .imageneshtml{
-        font-size:large;
+        font-size:larger;
     }
     .conciertos{
-        font-size: large;
+        font-size: larger;
     }
     .videoshtml{
-        font-size: large;
+        font-size: larger;
     }
-    
+
 
 }

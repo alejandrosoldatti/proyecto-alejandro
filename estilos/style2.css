@@ -586,3 +586,8 @@ p::selection{
         height: auto;
         border-radius: 23px;
     }
+@media screen and (max-width:768px){
+    .imageneshtml{
+        font-size:medium;
+    }
+}

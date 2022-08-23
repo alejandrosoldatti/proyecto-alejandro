@@ -605,3 +605,12 @@ p::selection{
     border-style: solid;
     border-color: #000000;
  }
+.img-centro{
+    display: flex;
+}
+.img-centro{
+    justify-content: center;
+}
+.nombre-centro{
+    text-align: center;
+}

@@ -397,13 +397,15 @@ header{
 @media screen and (max-width:768px) {
     .galeria{
        
-        grid-template-columns: 1.5fr 1.5fr 1.5fr;
-        grid-template-rows: 0.5fr 0.5fr 0.5fr 0.5fr;
+        grid-template-columns: 1.5fr 1.5fr;
+        grid-template-rows: 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr;
         grid-template-areas: 
-        "img1 img2 img15"
-        "img3 img5 img16"
-        "img6 img7 img17"
-        "img8 img10 img18";
+        "img1 img2"
+        "img3 img5"
+        "img6 img7"
+        "img8 img10"
+        "img15 img16"
+        "img17 img18";
     }
     .galeriadeimagenes--g1:hover{
         transform: scale(1.5);
@@ -613,4 +615,11 @@ p::selection{
 }
 .nombre-centro{
     text-align: center;
+}
+
+@media screen and(max-width: 768px) {
+        .card-img-top{
+            max-width: 100px;
+            max-height: 100px;
+        }
 }

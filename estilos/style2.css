@@ -448,6 +448,56 @@ header{
     
 }
 @media screen and (max-width:768px) {
+    .galeriadeimagenes--g1:hover{
+        transform: scale(1.2);
+        transition: all 1s;
+    }
+    .galeriadeimagenes--g2:hover{
+        transform: scale(1.2);
+        transition: all 1s;
+    }
+    .galeriadeimagenes--g3:hover{
+        transform: scale(1.2);
+        transition: all 1s;
+    }
+    .galeriadeimagenes--g5:hover{
+        transform: scale(1.2);
+        transition: all 1s;
+    }
+    .galeriadeimagenes--g6:hover{
+        transform: scale(1.2);
+        transition: all 1s;
+    }
+    .galeriadeimagenes--g7:hover{
+        transform: scale(1.2);
+        transition: all 1s;
+    }
+    .galeriadeimagenes--g8:hover{
+        transform: scale(1.2);
+        transition: all 1s;
+    }
+    .galeriadeimagenes--g9:hover{
+        transform: scale(1.2);
+        transition: all 1s;
+    }
+    .galeriadeimagenes--g15:hover{
+        transform: scale(1.2);
+        transition: all 1s;
+    }
+    .galeriadeimagenes--g16:hover{
+        transform: scale(1.2);
+        transition: all 1s;
+    }
+    .galeriadeimagenes--g17:hover{
+        transform: scale(1.2);
+        transition: all 1s;
+    }
+    .galeriadeimagenes--g18:hover{
+        transform: scale(1.2);
+        transition: all 1s;
+    }
+}
+@media screen and (max-width:768px) {
     .integrantes-main{
         background-image: url(../img/imgredimencionadas/rayos2.jpg);
         

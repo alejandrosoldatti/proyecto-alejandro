@@ -617,9 +617,3 @@ p::selection{
     text-align: center;
 }
 
-@media screen and(max-width: 768px) {
-        .card-img-top{
-            max-width: 100px;
-            max-height: 100px;
-        }
-}
